@@ -145,7 +145,8 @@ if __name__ == "__main__":
 ---
 ## Скриншоты результатов
 
-![[Pasted image 20251113172750.png]]
+<img width="1508" height="355" alt="image" src="https://github.com/user-attachments/assets/14ae5a0d-2b21-4319-87e7-09ac6d2067e4" />
+
 
 ---
 ## Вывод
