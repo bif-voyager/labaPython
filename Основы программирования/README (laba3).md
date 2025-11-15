@@ -111,7 +111,8 @@ def ab_iterative(k):
 ---
 ## Скриншоты результатов
 
-![[Pasted image 20251113170733.png]]
+<img width="699" height="422" alt="image" src="https://github.com/user-attachments/assets/cfa581ba-a284-4bef-8ab5-6040f6a45df8" />
+
 
 ---
 
